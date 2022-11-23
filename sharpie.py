@@ -8,4 +8,3 @@ def isSymmetric(mat, N):
 
 
 
-print(isSymmetric([[1, 0, 5], [0, 2, 4], [5, 4, 1]], 3))
